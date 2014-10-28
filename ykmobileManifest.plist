@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://raw.githubusercontent.com/Brillan/iosDis/master/icon57.png</string>
+                   <string>http://192.168.31.156:8080/icon57.png</string>
                </dict>
            <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://raw.githubusercontent.com/Brillan/iosDis/master/icon512.png</string>
+                   <string>http://192.168.31.156:8080/icon512.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
