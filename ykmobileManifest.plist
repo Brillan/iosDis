@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+L<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>URL</string>
                    <key>software-package</key>
-                   <string>http://60.211.234.206:8080/YKMobile.ipa</string>
+                   <string>https://raw.githubusercontent.com/Brillan/iosDis/master/YKMobile.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
