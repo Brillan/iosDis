@@ -11,7 +11,7 @@ L<?xml version="1.0" encoding="UTF-8"?>
                    <key>kind</key>
                    <string>URL</string>
                    <key>software-package</key>
-                   <string>http://60.211.234.206:8080/YKMobile.ipa</string>
+                   <string>https://raw.githubusercontent.com/Brillan/iosDis/master/YKMobile.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@ L<?xml version="1.0" encoding="UTF-8"?>
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://60.211.234.206:8080/icon57.png</string>
+                   <string>https://raw.githubusercontent.com/Brillan/iosDis/master/icon57.png</string>
                </dict>
            <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@ L<?xml version="1.0" encoding="UTF-8"?>
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://60.211.234.206:8080/icon512.png</string>
+                   <string>https://raw.githubusercontent.com/Brillan/iosDis/master/icon512.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
